@@ -9,4 +9,4 @@ Practice of Basic Machine Learning Alogrithms
   8. Naive Bayes
   9. Clustering
       
-Implemented the algotithms using sckit-learn libraries and optimized the hyper-parameters using GridSearch/RandomSearch Cross validation
+Implemented the algotithms using sckit-learn libraries and optimized the hyper-parameters using GridSearch/RandomSearch Cross validation and achieved less RMSE errors (in regression problems) and high accuracy (in classification problems)
